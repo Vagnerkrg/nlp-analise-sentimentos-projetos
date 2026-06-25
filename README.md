@@ -1,9 +1,5 @@
 # 🎯 Classificação Automatizada de Sentimentos em E-commerce com NLP
 
-[![Python](https://shields.io)](https://python.org)
-[![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
-[![NLTK](https://shields.io)](https://nltk.org)
-
 Este projeto implementa um pipeline completo de Processamento de Linguagem Natural (NLP) e Machine Learning para classificar e extrair inteligência de negócio a partir de avaliações de clientes de e-commerce. O modelo final alcançou uma **acurácia recorde de 91.85%**, operando com alta eficiência e pronto para integração em produção.
 
 ---
